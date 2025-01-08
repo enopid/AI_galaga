@@ -2,9 +2,9 @@
 
 ## 프로젝트 개요
 
-### **AI Galaga with obkject detection**
+### **AI Galaga with object detection**
 
-|<img src="" alt="Ingame_screen" width="400" height="300" style="margin:0; padding:0;">|
+|<img src="https://github.com/user-attachments/assets/ed8e6c67-f98b-4457-bec6-cce820661726" alt="Ingame_screen" width="600" height="500" style="margin:0; padding:0;">|
 |:-----------------:|
 |Ingame screen|
 
@@ -51,4 +51,4 @@
 
 ## 데모 영상
 
-https://www.youtube.com/watch?v=jUoGzTEvR8w
+[Demo Video](https://youtube.com/shorts/BxQAG61UVoU?feature=share)
