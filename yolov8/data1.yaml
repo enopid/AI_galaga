@@ -1,0 +1,13 @@
+train: ./train/images
+val: ./test/images
+test: ./test/images
+
+nc: 6
+names: ['boss_galaga', 'enemy-missile', 'goei', 'player', 'sasori', 'zako']
+
+roboflow:
+  workspace: asd-lxrtl
+  project: galaga-term-project
+  version: 3
+  license: Public Domain
+  url: https://universe.roboflow.com/asd-lxrtl/galaga-term-project/dataset/3
